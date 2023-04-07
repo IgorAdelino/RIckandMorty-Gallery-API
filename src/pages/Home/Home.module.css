@@ -1,0 +1,66 @@
+.primaryView {
+  margin-left: 10em;
+  margin-right: 10em;
+}
+h1,
+h2,
+p {
+  color: rgb(133, 126, 126);
+}
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 88vh;
+  justify-content: center;
+  padding: 0rem 10rem;
+  text-align: center;
+  gap: 3rem;
+  color: var(--white);
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(27, 27, 27);
+}
+.titleLogo {
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.titleLogo h1 {
+  font-family: "Alkatra";
+  color: #bdffa6;
+  text-shadow: 2px 2px 0 #1e361c, 4px 4px 0 #1e361c;
+}
+.titleLogo img {
+  padding: 1em;
+  width: 20em;
+  border-radius: 5em;
+}
+
+.Theory {
+  padding: 1em;
+}
+.Theory img {
+  padding: 1em;
+  width: 30em;
+  border-radius: 2em;
+}
+.Theory h2,
+h3 {
+  color: #bdffa6;
+}
+.Theory p {
+  text-align: justify;
+  color: rgb(185, 179, 179);
+}
+a {
+  text-decoration: none;
+  color: white;
+  border-radius: 2;
+}
+a:hover {
+  color: #bdffa6;
+  transform: translate(0%, -10%);
+  transition: 0.3s ease-out;
+}

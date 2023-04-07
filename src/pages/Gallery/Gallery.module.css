@@ -1,0 +1,33 @@
+.primaryView {
+  margin-left: 10em;
+  margin-right: 10em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40em;
+}
+
+.Container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  min-height: 88vh;
+  justify-content: center;
+  padding: 0rem 0rem;
+  text-align: center;
+  gap: rem;
+  color: var(--white);
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(27, 27, 27);
+}
+.Container h1 {
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  font-family: "Alkatra";
+  color: #bdffa6;
+  text-shadow: 2px 2px 0 #1e361c, 4px 4px 0 #1e361c;
+}
