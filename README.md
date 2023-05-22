@@ -19,3 +19,6 @@ O projeto contém:
 .Página Episódios> Contendo cards que fornecem informações adicionais sobre os episódios ao serem clicados. Redirecionando o Usuário para uma página com mais informações.
 
 .Página Adicional dos detalhes dos episódios> Contém as informações presentes na página episódios, além dos personagens presentes nele.
+
+![Linkedin2](https://github.com/IgorAdelino/RIckandMorty-Gallery-API/assets/117618427/eddfc24a-456b-41b6-bd5f-d249e2810d6e)
+
